@@ -55,21 +55,12 @@ set backup
 set backupdir=~/.vim/backups
 set directory=~/.vim/tmp
 
-map <up> <nop>
-map <down> <nop>
-map <left> <nop>
-map <right> <nop>
-imap <up> <nop>
-imap <down> <nop>
-imap <left> <nop>
-imap <right> <nop>
-
 inoremap kj <esc>
 
 " let g:colorizer_auto_filetype = 'css,html,javascript,cf,json'
 nnoremap <leader>c :ColorToggle<CR>
 
-let g:UseNumberToggleTrigger = 0
+" let g:UseNumberToggleTrigger = 0
 
 nnoremap <leader>t :NERDTree<CR>
 nnoremap <leader>f :NERDTreeFind<CR>
