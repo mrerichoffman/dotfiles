@@ -14,7 +14,7 @@ alias p="cd ~/Projects"
 alias h="history"
 alias j="jobs"
 
-alias localcode="cd /mnt/codebase/ssojka-dev/wwwroot" # For work
+alias localcode="cd /mnt/codebase/ehoffman-dev/wwwroot" # For work
 alias devcode="cd /mnt/codebase/wwwroot"
 
 alias tree="tree -C"
